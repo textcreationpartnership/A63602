@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the Sessions-house in the Old-Bayly which began on Wednesday the 21th of this instant April, 1680, and ended on Fryday the 23th following giving an account of most of the remarkable trials there ... with the condemnation of a notorious Jesuite, and of the three women to be burned and the proceedings with the apprentices.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63602</idno>
+            <idno type="STC">Wing T2827B</idno>
+            <idno type="STC">ESTC R29565</idno>
+            <idno type="EEBO-CITATION">11174414</idno>
+            <idno type="OCLC">ocm 11174414</idno>
+            <idno type="VID">46519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1432:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the Sessions-house in the Old-Bayly which began on Wednesday the 21th of this instant April, 1680, and ended on Fryday the 23th following giving an account of most of the remarkable trials there ... with the condemnation of a notorious Jesuite, and of the three women to be burned and the proceedings with the apprentices.</title>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:46519:1"/>
+            <pb facs="tcp:46519:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEDINGS AT The Seſſions-Houſe IN THE OLD-BAYLY. Which began on <hi>Wedneſday</hi> the 21th of this inſtant <hi>April,</hi> 1680. and ended on <hi>Fryday</hi> the 23th following.</head>
+            <head type="sub">Giving an Account of moſt of the Remarkable Trials there, <hi>viz.</hi> for High-Treaſon, Murders, Fellonies and Burglaries, <hi>&amp;c.</hi> with a particular Relation of their Names, and the places of their Committing their Facts, with the number of thoſe Condemned to die, burnt in the hand and to be whipt. With the Condemnation of a notorious Jeſuite, and of the three women to be burned, and the proceedings with the Apprentices.</head>
+            <p>THe firſt that we ſhall give an Account of is an Iriſh Youth, who was Ar<g ref="char:EOLhyphen"/>raigned and tryed for Robbing his Maſter of aboout fifty pounds in Goods and Moneys; the circumſtances thus, That the Priſoner being taken into Service, and brought up by the Gentleman now robbed, in <hi>Ireland,</hi> who coming over with him into <hi>England,</hi> took a houſe in the <hi>Strand;</hi> the Youth obſerving the place where he laid his Money, took an opportunity one Morning betimes to come into his Chamber ſoftly, and opening his Cabinet with a falſe Key, took thence forty pounds in ſilver, and three twenty ſhilling pieces of Gold, and immediately went to <hi>Briſtol,</hi> and there under the name of a Servant to a perſon of Honour, he endeavoured to take Shipping for <hi>Ireland;</hi> but upon groſe ſuſpicions being apprehended, the Rob<g ref="char:EOLhyphen"/>bery wss made plain, the Gold and moſt part of the Silver being taken about him. His Plea was that he had the money by a Bill of Exchange from his Father, but could not make it out, ſo that all Circumſtances conſidered, he was found Guilty of the Fel<g ref="char:EOLhyphen"/>lony.</p>
+            <p>
+               <hi>Henry Wether</hi> was Indicted for ſtealing a Mare from <hi>John Hall</hi> in the Pariſh of S. <hi>Martins</hi> in the Fields, vallued at 7 pounds, the which he having ſold to another for 3 pounds down, and 3 at <hi>Midſummer,</hi> was ſeiſed in the cuſtody of the Buyer, ſo that he making immediate ſearch for his Chapman, found him in a Strongwater-Shop in Long-Acre, where apprehending him, he was committed, and upon his Trial, it appeared that he had received the mercy of Tranſportation, ſo that upon full Evidence he was Con<g ref="char:EOLhyphen"/>victed of the Crime.</p>
+            <pb n="2" facs="tcp:46519:2"/>
+            <p>
+               <hi>Edward Harriſon</hi> was Inddicted and Arraigned for Felloniouſly murthering of one <hi>John Jacob,</hi> on Shrove munday laſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n King-ſtreet <hi>Weſtminster</hi> (for now of late that Scarlet Crime is grown ſo frequent, that it commonly concludes mutu<g ref="char:EOLhyphen"/>al friendſhip in ſuch a Trajeck Scene, that might far better befit Pagangs than profeſſors of Chriſtianity;) the manner of this fatal miſchief was according to the Evidence produced in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourt as followeth the deceaſed and the Priſoner ha<g ref="char:EOLhyphen"/>ving had ſeveral fallings out in relation that the Priſoner was too familliar with the wife of the deceaſed, whereupon he had often threatned to put a period to his Life or looſe his own, ſo that often having way laid him and fallen upon him at unawares, not only with unlawful Staves, but with his ſword endeavoured to ſurpriſe him but his deſigns not taking their wiſhed for event, but hindered by Providence for perpetrating ſuch a Cruel Sin till the Saturday before this Traje<g ref="char:EOLhyphen"/>dy was compleated, the aforementioned <hi>Harriſon</hi> having ſent for <hi>Jacobs</hi> wife, after being ſtrictly warned to the contrary, it ſo grieved him, that as it is ſaid vowed revenge, and waiting for the coming home of the Priſoner about ten of the Clock, and no ſooner having met him, but as the Priſoner pleaded, he drew upon him, making many p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes, which were put by and avoided by the Priſoners retreating to his own houſe, but the other ſtill purſuing him, he was obliged to draw and ſtand upon his Guard, which with two mortal wounds on the breſt about four inches deep made him fall breathleſs at his feet but notwithſtanding the Jury upon weighing all circumſtances thought fit to find him guilty of Man<g ref="char:EOLhyphen"/>ſlaughter.</p>
+            <p>
+               <hi>Charles Sancy</hi> a Frenchman was tried likewiſe for robbing his Brother Mounſier of twenty-eight French Piſtols, 6 Meddals with Coats of Arms up<g ref="char:EOLhyphen"/>on them, by breaking open as he alleged, his Trunks in his abſence, the party robbed could ſpeak no Engliſh, and ſo obliged to have an Interpreter, that the Court might be ſenſible of his Evidence; the Fellony was plain for <hi>Sancy</hi> confeſ<g ref="char:EOLhyphen"/>ſed he had taken twelve Piſtols, but the Burglary being ſomewhat dubious, he was only found guilty of the Fellony.</p>
+            <p>
+               <hi>William Harding</hi> was tried alſo for Raviſhing one <hi>Sarah Southy</hi> a Girl about 7 or 8 years of Age, ticeing her down into a dark Cellar by the allurement of Appels, and then accompliſhed his deteſtable Villany, not only giving the Child the foul Diſeaſe wherewith himſelf was infeſted, but likewiſe by forceable pe<g ref="char:EOLhyphen"/>netrating her Body, ſo abuſed her ſecret parts, that the diſtreſſed wretch remain<g ref="char:EOLhyphen"/>ed in a moſt miſerable condition, but long was it e're ſhe would complain, leſt her Mother ſhould beat her; but at laſt her extream torment enforced her to it, the which her mother no ſooner underſtood, but ſhe procured a couple of Chirurgi<g ref="char:EOLhyphen"/>ons that they might if poſſible retract the miſchance; who did conclude that ſhe had been forced, which ſhe her ſelf confeſſed at large; and he having been a very debauched fellow, for as the Witneſs ſwo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Court, he was wont to Act car<g ref="char:EOLhyphen"/>nally with his own mother; threatning when ſhe refuſed to permit his inceſtious deſires, to Fire the houſe about her Ears, and when he was ſearched, ſeveral Simptoms of the Venereal Diſtemper was ſeen to remain, ſo that the Jury brotght him in guilty of the Rape.</p>
+            <p>
+               <hi>Joſeph Rumley</hi> and <hi>Matthew Smith</hi> received their Trials for Fellony and Bur<g ref="char:EOLhyphen"/>glary, committed upon the dwelling houſe of one <hi>Robert Baits</hi> near <hi>Milend green</hi> breaking through the ſhutters of a Window, and after having entered, conveyed thence, three pewter Diſhes, ſeveral Braſs Pans and Kettels, Porringers, Linnen, with many other things to a conſiderable vallue, being purſued and apprehended they confeſſed the Fellony, and the Burglary being plainly proved, they were found Guilty of both.</p>
+            <p>
+               <hi>Tho. Digs</hi> and <hi>Tho. Griſte</hi> were Indicted and Arraigned for Felloniouſly bear<g ref="char:EOLhyphen"/>ing away eighteen Yards of Broad cloth out of the Shop of one Mr. <hi>Gardne,</hi> living in the Pariſh of St. <hi>Buttolph</hi> without <hi>Algate,</hi> coming in, they pretended to ſmoak
+<pb n="3" facs="tcp:46519:2"/>a Pipe of Tobacco, one of them held the maid in a Diſcourſe, till the other car<g ref="char:EOLhyphen"/>ried off the Purchaſe, but being Apprehended, one them, viz. the latter, confeſ<g ref="char:EOLhyphen"/>ſed where they had beſtowed it, ſo upon ſearch it was found, all but two yards and a half, at an Alehouſe hard by; upon the extenuation of the Evidence joyned to that of their own Confeſſion they were both found Guilty.</p>
+            <p>
+               <hi>Ann White</hi> received her Trial for a Fellony and Burglary, for breaking open the houſe of one Mr. <hi>Dodſon</hi> in <hi>Holburn,</hi> but being ſurpriſed in the houſe e're ſhe could get her Pack together, ſhe made her excuſe to ſpeak with the maid; but the Gentlewoman of the houſe ſeeing her have a great bundle under her Arm, called in ſome Neighbours to ſearch her, which they no ſooner did, but they found three ſilk Coats, Amber Necklaces, Linnen and the like; ſo that the Theft, being plain, ſhe was convicted of the Fellony.</p>
+            <p>
+               <hi>William <g ref="char:V">Ʋ</g>nderwood</hi> and <hi>Elizabeth Cook</hi> were Indicted and Arraigned for high Treaſon, for that they had contrary to the Laws of the Nation Counterfitted and Clipped the lawful Coin of <hi>England, viz.</hi> mill'd half Crowns. Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> ſhillings to the number of one hundred, as alſo Filed and waſhed; having taken a Room in St. <hi>Martins</hi> Lane for that purpoſe, ſhe being no better than a Harlot, as it was plainly proved in Court, the firſt of their Diſcovery was by her meeting with an old Companion of hers, whom ſhe made ſenſible o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>her new imploy, telling him ſhe would now allow him a Guinny a week, where<g ref="char:EOLhyphen"/>upon he demanded how ſhe would come by it, to which ſhe replied, ſhe had got a Trade that would allow far more, which was the Art of Coining, by which ſhe could make of one ſhilling worth of Mettle eight or nine half Crowns, telling him if he would put in for a ſhare and be ſecret, he ſhould live beyond his expe<g ref="char:EOLhyphen"/>ctation; the which upon ſome falling out, he not only refuſed, but diſcovered it to a Conſtable, who upon ſearch found her and her Gallant in Bed; and break<g ref="char:EOLhyphen"/>ing open the Dore, upon their refuſal of Admittance; they no ſooner enterred but <hi>
+                  <g ref="char:V">Ʋ</g>nderwood</hi> ran to the Cloſet, and took down a large piece of melted ſilver, which the Conſtable requeſting to ſee, he whiſpering him in the Ear, deſired him to conceal it; telling him he was undone if he ſhould diſcover it, but he not minding that, ſearched farther, and found ſeveral melting Pots, a pair of Shears, ſome Clippings, and about 150 pieces of falſe Coin, repreſenting King <hi>James</hi>'s ſhiilings, King <hi>Charles</hi> the firſt his half Crowns, Mill'd ſhillings, and other pieces, with a Flask and all convenient Engines for that pernicious employ which were hid in a hole under the Hearth with a board over it; which being proved by three or four poſitive Evidences, they were both found Guilty of the High-Treaſon.</p>
+            <p>
+               <hi>Edward Richardſon, Jane Digby,</hi> and <hi>Elizabeth Richardſon</hi> were likewiſe Ar<g ref="char:EOLhyphen"/>raigned and tried for Treaſonable practiſes in the nature of the former, for that they living in St. <hi>Martins</hi> Lane, had for a conſiderable time uſed that fraudulent and pernicious Art of Clipping his Majeſties lawful Coin, and diminiſhing it three pence in every ſhilling, to the great dammage of Traffick. The firſt diſ<g ref="char:EOLhyphen"/>covery of them was by a Cardmatch-wench, ſince poiſoned) whom they would have hired to Aſſiſt them in the intreague, who told it one <hi>Withers,</hi> and he taking a Conſtable with him, went to ſearch <hi>Elizabeth Richardſons</hi> Lodging, where he no ſooner entring, but ſhe put her Head out of the Window and cryed out Mur<g ref="char:EOLhyphen"/>ther, they are come for Clippings, the which gave notice to <hi>Edward Richard<g ref="char:EOLhyphen"/>ſon</hi> her Son, who lodged at the next houſe to convey thence his Tools and In<g ref="char:EOLhyphen"/>ſtruments, and to endeavour to fly; but being ſtopped and apprehended, upon diligent ſearch in his Lodging, there was nothing ſound ſave a Receipt in his Pocket how to waſh Silver, but in his Mothers they found a pair of Shears, ſeve<g ref="char:EOLhyphen"/>ral Rubbers, a Flask, Clippings, and other Inſtruments hid in the Aſhes, and in Mrs. <hi>Digbies</hi> Cuſtody who owned the Houſe, a Trunk hid beneath the ſtairs in the Cellar, eight or nine pound clipped; and above all, one Braſs half-Crown,
+<pb n="4" facs="tcp:46519:3"/>that anſwered to a piece of Clippings found in <hi>Elizabeth Richardſons</hi> Cuſtody, with a Dancing ſuit, ſuppoſed to be <hi>Edward Richardſons.</hi> ſo that upon all theſe Circumſtances the Jury brought in <hi>Edward Richardſon</hi> and <hi>Elizabeth Richard<g ref="char:EOLhyphen"/>ſon</hi> Guilty of the Treaſon, and acquitted <hi>Jane Digby</hi> only.</p>
+            <p>
+               <hi>Ralph Cook</hi> of St. <hi>Andrews Holbourn</hi> received his Trial for High Treaſon, for that he unlawfully Coined ſeveral new Mill'd Half Crowns to the number of ſeven, which were proved to be made out of Pewter Plate, part of which plate was produced in Court, he being betrayed by his Wife, who declared it to her Landlord, who cauſed him to be Apprehended, and his Room ſearched, in which they found a Caſting mould, a Flask, and ſeveral Ingraving Tools, and ſeven Half Crowns, with ſome other Inſtruments. He had been formerly a Baker, and was brought into that vicious practice as he ſaid, by a certain perſon in <hi>Stafford<g ref="char:EOLhyphen"/>ſhire,</hi> ſo that the Treaſon being proved againſt him, not only by his Wife, but his Landlord and the Conſtable, he received the Verdict againſt him, as Guil<g ref="char:EOLhyphen"/>ty of High Treaſon.</p>
+            <p>
+               <hi>John Ralphs</hi> and <hi>Clement Sells,</hi> Two notorious Offenders were likewiſe Indict<g ref="char:EOLhyphen"/>ed for two Notorious Fellonies and Burglaries, the firſt upon the Houſe of <hi>John Bewing</hi> of <hi>Willsdon</hi> being eight in Company, they entred, and binding all the Family except the Maid Servant, whom they compelled to light them from Room to Room, until they had plundered Goods and Monys to the value of 200 pounds, viz. 3 Silver Tankards, 2 Caudle (ups, 29 pounds in Money, Linnen, Silk and other portable things, and after ordering the Maid to fetch them up ſome Victuals departed with their prize. The next was upon the Houſe of <hi>Wil<g ref="char:EOLhyphen"/>liam Charles</hi> of <hi>Tatnam Court,</hi> it being a Victualling Houſe; They came in num<g ref="char:EOLhyphen"/>ber ſix, and called for Drink, and deſiring to drink with their Landlord, asked him if he knew <hi>Hine.</hi> telling him they were of his employment, and wanted Mo<g ref="char:EOLhyphen"/>neys, drawing a Sword and holding it to his Breaſt till they had bound him and ranſackt the Houſe; carrying away Sheets, Napkins, Pewter and Linnen to con<g ref="char:EOLhyphen"/>ſiderable value, ſo that being apprehended, one of them, <hi>viz. Ralphs</hi> confeſſed his being there, ſo that upon full Evidence they were both Convicted of Felony.</p>
+            <p>
+               <hi>Daniel Macarty</hi> an <hi>Iriſh</hi> man being indicted upon the Statute of 27 of Queen <hi>Elizabeth,</hi> for having taken Orders from the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>Rome</hi> and coming over into <hi>England</hi> being Impeached by one <hi>Alice Turner</hi> who had formerly been his Pro<g ref="char:EOLhyphen"/>felyte. And upon Information, one Mr. <hi>Stiff</hi> a Conſtable in St <hi>Giles</hi>'s, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>king with him ſome other Neighbours went to apprehend him, and having entered the houſe where he was ſaid to Lodg, they found him confeſſing a Sick Woman who no ſooner ſeeing them begin roughly to handle her Prieſt, but cryed out, <hi>O what will you rob me of my Salvation:</hi> upon ſearch of him they found about him a Petition to an Envoy, it being written in <hi>French,</hi> denoting that <hi>Daniel Macar<g ref="char:EOLhyphen"/>ty</hi> a Prieſt, being in want ſince his releaſe out of the <hi>Gatehouſe,</hi> deſired his Cha<g ref="char:EOLhyphen"/>rity, and further a Purple Ribon with three Croſſes upon it, with which all Po<g ref="char:EOLhyphen"/>piſh Prieſts do uſually give the Sacrament with in private, wearing it about his Neck with a large Chriſtal Crucifix: a Letter in Order to manage the more effi<g ref="char:EOLhyphen"/>cacious carrying on the Plot, as likewiſe ſaying Maſs and giving the Sacra<g ref="char:EOLhyphen"/>ment was proved by the ſaid <hi>Mary Turner</hi> not only at the Venetian Embaſſadors but at <hi>Wild Houſe,</hi> and Confeſſing likewiſe to Dr. <hi>Oates,</hi> he was found Guilty of the ſaid High Treaſon as a Popiſh Prieſt or Jeſuit.</p>
+            <p>The ſeveral Apprentices that were committed to the <hi>Gatehouſe</hi> to the number of 14. or 15. being turned over to this Goal Delivery, the Court condeſcended to take Bail for their good Behaviour, and for their further anſwering their Treaſonable Intentions of moving a Combination to levy War againſt tht King.</p>
+            <p>There were in all 24 Condemned to dye, <hi>Edward Richardſon, Martha Cook, Elizabeth Richardſon, Iſabella Marſh, William Harvy, Clement Sells, John Ralphs, William Harding Ann White, Dorothy Thomas, Joſeph Rumley, Henry Wether, Barthelomow Smith, Mary Ewen, Mary North, Ellenor Holland, Elizabeth Hicks, Sarah Maſon, Sarah Stiff, Jane Stew<g ref="char:EOLhyphen"/>ard, Daniel Maccharty, William <g ref="char:V">Ʋ</g>nderwood, Mary Beſtin, Ralph Cook.</hi>
+            </p>
+            <p>14 burnd in the hand, one to ſtand in the Pillory, three to be tranſported, and three to <gap reason="illegible" resp="#UOM" extent="1+ lines">
+                  <desc>〈1… lines〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:46519:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
